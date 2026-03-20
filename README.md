@@ -1,4 +1,4 @@
-# CP Grind Tracker 🖤
+# CP Grind Tracker 
 
 I got tired of not knowing where I was dying on LeetCode. So I built a database that tracks every submission, shows my weak topics, and tells me if my streak is alive or dead.
 
@@ -120,4 +120,4 @@ cp-grind-tracker/
 - alfa-leetcode-api
 
 ---
-Built by [Harshith](https://github.com/Harshith1702) — CMR Technical Campus 🖤
+Built with 🖤 by [Harshith-Me Bruh!!](https://github.com/Harshith1702) 
