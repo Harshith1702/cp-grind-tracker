@@ -120,4 +120,4 @@ cp-grind-tracker/
 - alfa-leetcode-api
 
 ---
-Built with 🖤 by [Harshith-Me Bruh!!](https://github.com/Harshith1702) 
+Built by [Harshith](https://github.com/Harshith1702) 
