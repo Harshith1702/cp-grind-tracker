@@ -7,7 +7,7 @@ if (!in_array($view, $allowed)) {
     echo json_encode(["error" => "Invalid view"]);
     exit;
 }
-$db = mysqli_connect("localhost", "root", "harshith", "cp_grind");
+$db = mysqli_connect("localhost", "root", "your_password", "cp_grind");
 if (!$db) {
     echo json_encode(["error" => mysqli_connect_error()]);
     exit;
